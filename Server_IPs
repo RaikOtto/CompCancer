@@ -18,7 +18,7 @@
 18 ec2-18-195-101-235.eu-central-1.compute.amazonaws.com
 19 ec2-3-121-239-43.eu-central-1.compute.amazonaws.com
 20 ec2-3-126-51-61.eu-central-1.compute.amazonaws.com
-21 ec2-3-120-131-145.eu-central-1.compute.amazonaws.com
+21 ec2-52-58-152-73.eu-central-1.compute.amazonaws.com
 
 ssh -i "Workshop_SSH_Key.pem"  -Y -L 8889:localhost:8889 -L 6014:localhost:6014 xyz -l ubuntu
 
