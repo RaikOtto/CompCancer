@@ -25,9 +25,3 @@ ssh -i "Workshop_SSH_Key.pem"  -Y -L 8889:localhost:8889 -L 6014:localhost:6014 
 
 # MS Windows
 at the port forwarding mask, add just like 8889 additionally 6014 i.e. source port 6014, destination localhost:6014
-
-Session 1 presentation
-https://docs.google.com/presentation/d/1V2EDxdPyDAj8Lkek7hBmPkeAuVlWYaZoA6d6v74ZOkc/edit?usp=sharing
-
-Session 2 presentation
-http://www.heatmapping.org/slides/2020_CCDL.pdf
