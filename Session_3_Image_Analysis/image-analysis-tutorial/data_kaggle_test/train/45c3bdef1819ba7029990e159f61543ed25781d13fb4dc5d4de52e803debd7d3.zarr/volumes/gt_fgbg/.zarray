@@ -1,0 +1,21 @@
+{
+    "chunks": [
+        1,
+        360,
+        360
+    ],
+    "compressor": {
+        "id": "gzip",
+        "level": 1
+    },
+    "dtype": "|u1",
+    "fill_value": 0,
+    "filters": null,
+    "order": "C",
+    "shape": [
+        1,
+        360,
+        360
+    ],
+    "zarr_format": 2
+}
